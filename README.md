@@ -14,7 +14,6 @@ Installation of files
 Create a root software stack directory `<stack_root>` per directions in [stack-spack](https://github.com/burgreen/stack-spack).
 
 ```
-tar xf  tarball-proteus-<ver>-var.tar           -C <stack_root>
 tar xfz tarball-proteus-<ver>-thirdparty.tar.gz -C <stack_root>
 ```
 
